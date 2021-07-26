@@ -21,7 +21,7 @@ const Display = () => {
                 usedData.map(data => <Home handleBtn={handleBtn} display={data}/>)
             }
             </div>
-            <div>
+            <div className="salary-area">
                 <Salary addSalary={salary}/>
             </div>
         </div>

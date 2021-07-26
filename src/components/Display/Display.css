@@ -1,0 +1,11 @@
+
+
+.display{
+    width: 65%;
+    margin-left: 20%;
+    border-right: 1px solid gray;
+}
+
+.display-container{
+    display: flex;
+}
